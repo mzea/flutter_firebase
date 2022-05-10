@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // Remove the debug banner
       debugShowCheckedModeBanner: false,
-      title: 'Lista de precios - Finca Urbana',
+      title: 'Lista de Precios - Finca Urbana',
       theme: ThemeData(
         primarySwatch: Colors.yellow
       ),
